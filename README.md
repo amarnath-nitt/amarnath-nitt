@@ -2,4 +2,4 @@
 - 👀 I’m interested in DSA and Problem Solving
 - 🌱 I’m currently learning Java, Spring Boot, Hibernate etc.
 - 💞️ I’m looking to collaborate on Backend Software Development Engineer
-- 📫 How to reach me email: amarnath.nitt@gmail.com
+- 📫 How to reach me email: amarnath97.nitt@gmail.com
