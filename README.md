@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amarnath-nitt
+- 👋 Hi, I’m Amarnath.
 - 👀 I’m interested in DSA and Problem Solving
-- 🌱 I’m currently learning Java, Spring Boot, Hibernate etc.
-- 💞️ I’m looking to collaborate on Backend Software Development Engineer
+- 🌱 I’m currently learning Java, Spring Boot, Hibernate, MySQL, DSA etc.
+- 💞️ I’m looking to collaborate as a Backend Developer or Fullstack Developer.
 - 📫 How to reach me email: amarnath97.nitt@gmail.com
