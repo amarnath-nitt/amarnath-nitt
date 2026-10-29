@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amarnath-nitt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=amarnath-nitt&icon=0&color=0)](https://portfolio97-three.vercel.app/)
+[![](https://komarev.com/ghpvc/?username=amarnath-nitt&icon=0)](https://github.com/amarnath-nitt)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
